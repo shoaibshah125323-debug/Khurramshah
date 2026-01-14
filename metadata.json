@@ -1,0 +1,8 @@
+{
+  "name": "SocialVerse Family Hub",
+  "description": "A gamified social dashboard featuring family XP progression, tiered chest unlocks with glassmorphism UI, and AI-powered family growth strategies.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
